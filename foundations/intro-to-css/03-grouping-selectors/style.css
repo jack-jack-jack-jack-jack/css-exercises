@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.left,
+.right {
+  font-size: 28px;
+  font-family: helvetica,times new roman,arial,sans-serif;
+}
+
+.left {
+    background-color: black;
+    color: white;
+    font-family: verdana,deja vu,helvetica,arial,sans-serif;
+}
+
+.right {
+    background-color: yellow;
+    font-family: verdana,deja vu,helvetica,arial,sans-serif;
+}
